@@ -1,0 +1,106 @@
+.exerciseContainer {
+    padding-top:5px;
+    margin: 20px 20px 0px 20px;
+    border-radius:5px;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+}
+
+.exerciseContainer:hover {
+    padding-top:5px;
+    margin: 20px 20px 0px 20px;
+    box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+.exerciseInput {
+    border-bottom : 1px solid #fff;
+    height: 25px;
+    width: 100%;
+    margin-top:5px;
+    text-indent: 5px;
+}
+
+
+.exerciseInput-mass {
+    border-bottom: 5px solid #50bfe6;
+    padding-right: 1px;
+    width:20%;
+    display: inline-block;
+}
+
+.exerciseInput-reps {
+    border-bottom: 5px solid #c3cde6;
+    padding-right: 1px;
+    width:20%;
+    display: inline-block;
+}
+
+.exerciseInput-sets {
+    border-bottom: 5px solid #aaf0d1;
+    padding-right: 1px;
+    width:20%;
+    display: inline-block;
+}
+
+.exerciseInput-rest {
+    border-bottom: 5px solid #fcd667;
+    padding-right: 1px;
+    width:20%;
+    display: inline-block;
+}
+
+.exerciseInput-duration {
+    border-bottom: 5px solid #d92121;
+    padding-right: 1px;
+    width:20%;
+    display: inline-block;
+}
+
+.exerciseDelete {
+    text-align: right;
+    padding-right:20px;
+    color:#d92121;
+    cursor:pointer;
+    padding-bottom: 1px;
+}
+
+.exerciseDelete:hover {
+    padding-bottom: 0px;
+    border-bottom: 1px solid #d92121;
+}
+
+.exerciseSave {
+    width:45px;
+    padding-right:17px;
+    float:left;
+}
+
+.exerciseSaveContainer {
+    display: block;
+    display:inline-block;
+}
+
+.exerciseSaveButton {
+    float:right;
+    padding-left:5px;
+    color:#c3cde6;
+    cursor:pointer;
+}
+
+.exerciseSaveButton:hover {
+  font-weight:bold;
+}
+
+
+.exerciseOrderNumber {
+    float:left;
+}

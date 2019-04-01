@@ -1,0 +1,45 @@
+.userWrap {
+    width:280px;
+    margin-right:auto;
+}
+
+.userContainer {
+    width: 80%;
+    height: 50px;
+    float:right;
+    background-color:#fff;
+    padding-top:7px;
+    border-radius:5px;
+    margin: 0px 20px 10px 40px;
+    cursor:pointer;
+    font-weight:100;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+}
+
+.userContainer:hover {
+    box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+.userContainerSelected {
+    width: 80%;
+    height: 50px;
+    float:right;
+    background-color:#fff;
+    padding-top:7px;
+    border-radius:5px;
+    margin: 0px 20px 10px 40px;
+    cursor:pointer;
+    font-weight:100;
+    border: 1px solid #50bfe6;
+    color: #50bfe6;
+}

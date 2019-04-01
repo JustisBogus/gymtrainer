@@ -1,0 +1,95 @@
+.workoutTitle {
+    width: 100%;
+    height: 50px;
+    padding-top: 20px;
+}
+
+.workoutCreatedTitleWrap {
+    width:280px;
+    margin:auto;
+}
+
+.workoutCreatedTitle {
+    margin:auto;
+    height: 50px;
+    cursor:default;
+    background-color: #fff;
+    margin:5px 20px 20px 20px;
+    border-radius: 0.3em;
+    padding-top:17px;
+    font-weight:20;
+}
+
+.workoutAddExerciseWrap {
+    width:280px;
+    margin:auto;
+}
+
+.workoutAddExercise {
+    height: 50px;
+    background-color: #fff;
+    margin:20px;
+    border: 1px solid #aaf0d1;
+    border-radius:5px;
+    padding-top:0px;
+    font-size:48px;
+    font-weight:20;
+    cursor:pointer;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.workoutAddExercise:hover  {
+    height: 50px;
+    background-color: #fff;
+    margin:20px;
+    border: 1px solid #aaf0d1;
+    border-radius:5px;
+    padding-top:0px;
+    font-size:48px;
+    font-weight:20;
+    box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+}
+
+.workoutCreateWrap {
+    width:280px;
+    margin:auto;
+}
+
+.workoutCreate {
+    height: 50px;
+    padding-top:17px;
+    background-color: #fff;
+    margin:20px;
+    border: 1px solid #fcd667;
+    border-radius:5px;
+    font-weight:20;
+    cursor:pointer;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.workoutCreate:hover  {
+    height: 50px;
+    padding-top:17px;
+    background-color: #fff;
+    margin:20px;
+    border: 1px solid #fcd667;
+    border-radius:5px;
+    font-weight:20;
+    box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.1);
+}
